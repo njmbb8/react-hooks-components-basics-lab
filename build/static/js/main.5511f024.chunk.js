@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-hooks-components-basics-lab"]=this["webpackJsonpreact-hooks-components-basics-lab"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(0),s=(t(1),t(3)),o=t.n(s);t(9);function r(){return Object(c.jsx)("nav",{children:Object(c.jsx)("a",{href:"#home",children:"I'm a link!"})})}var a=function(){return Object(c.jsx)("div",{children:Object(c.jsx)(r,{})})};o.a.render(Object(c.jsx)(a,{}),document.getElementById("root"))},9:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.5511f024.chunk.js.map
